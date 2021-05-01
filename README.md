@@ -125,7 +125,7 @@ functionalities. If they don’t match or entered account number doesn't exist t
 
 ## Input and Output of program
 We are giving a link below that redirects to the YouTube page playing our video which demonstrates the input and output of the program.
-YouTube video Link: http://bit.ly/psc-project
+Execution video Link: [Youtube video](https://www.youtube.com/watch?v=ZyakexnOaKA)
 
 ## Contributors
 1. 19BCE237 - Sakshi Sanghavi
