@@ -99,7 +99,7 @@ functionalities. If they don’t match or entered admin ID doesn't exist then ap
 >> Customer account number and PIN should be entered
 > If account no. and PIN matches then customer will unlock his/her
 functionalities. If they don’t match or entered account number doesn't exist then appropriate error prompts are displayed.
-        > Functionalities:
+> Functionalities:
                  1. Deposit
                     greater than 25000
                     and balance is updated with the new amount.
