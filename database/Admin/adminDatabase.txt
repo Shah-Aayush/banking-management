@@ -13,8 +13,8 @@ sakshiS
 try
 try
 *
-admin
-adminLogin
+samplee
+
 *
 try_sample
 try
